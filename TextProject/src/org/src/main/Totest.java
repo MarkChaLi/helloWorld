@@ -1,5 +1,7 @@
 package org.src.main;
 
-public class Totest {
+import javax.swing.text.StyledEditorKit.BoldAction;
+
+public class Totest extends BoldAction{
 
 }
